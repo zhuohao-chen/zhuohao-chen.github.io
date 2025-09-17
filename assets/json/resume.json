@@ -1,157 +1,217 @@
 {
   "basics": {
     "name": "Zhuohao Chen",
-    "label": "Scientist",
+    "label": "Master Student",
     "image": "",
-    "email": "zhuohao.chen@example.com",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chen5299@purdue.edu",
+    "phone": "(765) 694-9903",
+    "url": "https://zhuohao-chen.github.io/",
+    "summary": "A Master student specializing in Human-Computer Interaction and Extended Reality.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "100 Foundry Dr",
+      "postalCode": "IN 47906",
+      "city": "West Lafayette",
       "countryCode": "US",
-      "region": "California"
+      "region": "Indiana"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Zhuohao Chen",
+        "url": "www.linkedin.com/in/cisco-chen-gamedev"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Scholar",
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=yTMzhhEAAAAJ&inst=5549692440350501774"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "Purdue University",
+      "location": "West Lafayette, Indiana",
+      "url": "https://www.purdue.edu/",
+      "area": "Human-Computer Interaction and Extended Reality",
+      "studyType": "Master's",
+      "startDate": "2024-08-16",
+      "endDate": "2025-05-01",
+      "score": "4.00/4.00",
       "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Changsha University of Science and Technology",
+      "location": "Changsha, Hunan, China",
+      "url": "https://www.csust.edu.cn/",
+      "area": "Computer Science and Technology",
+      "studyType": "Bachelor's",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-30",
+      "score": "3.6/4.0",
+      "courses": ["Data Structures", "Operating Systems", "Computer Networks"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Exploring Avoidance Behavior in Outdoor Mixed Reality",
+      "publisher": "Target: IEEE VR 2026 / TVCG",
+      "releaseDate": "expected 2025-12-01",
+      "url": "",
+      "summary": "In preparation. Co-first author."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A Systematic Review of Generative AI on Game Character Creation: Applications, Challenges, and Future Trends",
+      "publisher": "IEEE Transactions on Games",
+      "releaseDate": "2025-04",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10979443",
+      "summary": "Systematic review of 72 studies on generative AI in game character design."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Visual Design for Predictive Display in Spatial Time-Delay Environments Considering Workload",
+      "publisher": "HCI International",
+      "releaseDate": "2023-07-09",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-35696-4_24",
+      "summary": "Explored predictive display technologies and workload effects under time delay."
+    },
+    {
+      "name": "Research and Design of Chinese Cookie Model with Chun Character based on OpenSCAD",
+      "publisher": "CONF-CDS 2023",
+      "releaseDate": "2023-10",
+      "url": "https://www.researchgate.net/publication/382370818_Research_and_design_of_Chinese_cookie_model_with_chun_character_based_on_OpenSCAD",
+      "summary": "Designed a generative parametric cookie model using OpenSCAD."
+    }
+  ],
+
+  "experiences": [
+    {
+      "name": "Purdue University — Department of Computer Graphics Technology",
+      "position": "Graduate Researcher (XR Collision Avoidance for Outdoor Safety)",
+      "startDate": "2025-02-01",
+      "endDate": "2025-09-01",
+      "summary": "Investigated perception, avoidance behavior, and psychological equivalence of real vs. virtual obstacles in outdoor MR with Meta Quest 3.",
+      "highlights": ["Designed controlled MR experiments; measured spatial presence, movement trajectory, cognitive load",
+        "Prepared manuscript submitted to IEEE VR 2026 / TVCG (co-first author)"]
+    },
+    {
+      "name": "Purdue University — Graduate Research",
+      "position": "Co-Author",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-31",
+      "summary": "PRISMA-based systematic review on generative AI for game character design.",
+      "highlights": [
+        "Built statistical tables and visual classification",
+        "LaTeX manuscript formatting; paper published in IEEE ToG (Early Access, 2024)"
+      ]
+    },
+    {
+      "name": "CSUST — School of Computer Science and Technology",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2022-11-01",
+      "endDate": "2023-03-31",
+      "summary": "Explored predictive graphical interfaces (VR-PGI vs. I-PGI) for remote HCI under varying time delays.",
+      "highlights": [
+        "Data collection (N=20) and workload analysis",
+        "Resulted in HCI International 2023 publication"
+      ]
+    },
+    {
+      "name": "CSUST — Undergraduate Research",
+      "position": "Undergraduate Researcher",
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-30",
+      "summary": "Designed a generative cookie model with the Chun character using OpenSCAD.",
+      "highlights": [
+        "User evaluation (N=50) verifying cultural authenticity and detail accuracy",
+        "Published in CONF-CDS 2023"
+      ]
+    }
+  ],
+  "projects": [
+    { 
+      "name": "Chinese Medicine VR (Simulation Game)",
+      "summary": "VR simulation replicating Chinese medicine diagnostic practices.",
+      "highlights": ["2nd Prize, China National Undergraduate Ruikang Robot Developer Competition (2023)"],
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-31",
+      "url": ""
+    },
+    {
+      "name": "2D RPG — Thousand-Character Classic",
+      "summary": "RPG mechanics including movement, AI, quest system, and UI.",
+      "highlights": ["2nd Prize, China Undergraduate Computer Design Competition (2022)", "1st Prize, CSUST Game Creation Competition (2022)"],
+      "startDate": "2022-02-01",
+      "endDate": "2022-08-31",
+      "url": ""
+    },
+    {
+      "name": "Global Waste Transformation (Simulation Game)",
+      "summary": "Designed economic system and NPC behaviors.",
+      "highlights": ["3rd Prize, 2022 Hunan Provincial Innovation Competition"],
+      "startDate": "2022-01-01",
+      "endDate": "2022-05-31",
+      "url": ""
+    },
+    {
+      "name": "Village Revitalization — 3D Sandbox Simulation",
+      "summary": "Implemented mission system, trading, interactive UI, and 3D sandbox with resource & construction mechanics.",
+      "highlights": [],
+      "startDate": "2022-02-01",
+      "endDate": "2022-05-31",
+      "url": ""
+    }
+  ],
+  "awards": [
+    { "title": "Second Prize — China National Undergraduate Ruikang Robot Developer Competition", "date": "2023-05-01", "awarder": "Ruikang Robot Developer Competition", "summary": "" },
+    { "title": "Third Prize (Hunan Region) — 24th China Robotics and AI Competition", "date": "2022-06-01", "awarder": "China Robotics and AI Competition", "summary": "" },
+    { "title": "Second Prize — China Undergraduate Computer Design Competition", "date": "2022-08-01", "awarder": "CUCDC", "summary": "" },
+    { "title": "Third Prize (Education Platform) — China Undergraduate Computer Design Competition", "date": "2022-08-01", "awarder": "CUCDC", "summary": "" },
+    { "title": "Third Prize — China Undergraduate Innovation and Entrepreneurship Competition", "date": "2022-08-01", "awarder": "National Competition", "summary": "" },
+    { "title": "First Prize — 3rd “Yuanguang Cup” Game Creation Competition (CSUST)", "date": "2022-12-01", "awarder": "CSUST", "summary": "" }
+  ],
+  "volunteer": [
+    {
+      "organization": "Game Development Club, CSUST (CS Fundamental Training Camp)",
+      "position": "President",
+      "startDate": "2022-07-01",
+      "endDate": "2022-09-30",
+      "summary": "Organized Unity & C# workshops; mentored undergraduates."
+    },
+    {
+      "organization": "“Yuanguang Cup” Game Creation Competition, CSUST",
+      "position": "Initiator & Founder",
+      "startDate": "2022-11-01",
+      "endDate": "2022-12-31",
+      "summary": "Established the university’s first student-led game design competition."
+    },
+    {
+      "organization": "Siyuyan Reading Club",
+      "position": "Speaker",
+      "startDate": "2022-06-01",
+      "endDate": "2022-06-30",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": ["C", "C++", "Java", "Python", "C#", "OpenGL (GLSL)", "Git", "LaTeX"]
+    },
+    {
+      "name": "XR & Game Development",
+      "level": "Advanced",
+      "keywords": ["Unity", "Unreal Engine", "Meta Quest 3", "HTC Vive"]
+    },
+    {
+      "name": "3D & Tools",
+      "level": "Intermediate",
+      "keywords": ["Blender", "OpenSCAD"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,39 +222,16 @@
     }
   ],
   "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+    { "name": "Human–Computer Interaction (HCI)" },
+    { "name": "Extended Reality (XR)" },
+    { "name": "Adaptive User Interfaces" },
+    { "name": "Virtual Humans & Embodied Agents" },
+    { "name": "Generative AI for Game Character Design" },
+    { "name": "Cognitive/Behavioral Responses in MR" },
+    { "name": "User Experience & Accessibility" }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+
   ]
+
 }
