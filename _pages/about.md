@@ -2,16 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  M.S. Student, Computer Graphics Technology, Purdue University <br>
+  Human-Computer Interaction · Extended Reality · Generative AI
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ZhuohaoChen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Zhuohao Chen</p>
-    <p>100 Foundry Dr</p>
-    <p>West Lafayette, IN 47906</p>
+    <div>
+      <p>Zhuohao Chen</p>
+      <p>100 Foundry Dr</p>
+      <p>West Lafayette, IN 47906</p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
